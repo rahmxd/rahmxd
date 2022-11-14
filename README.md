@@ -90,7 +90,7 @@ Hi, my name is Rafee...<br>
 <tr style="border:none">
 <td style="border:none">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmxd06&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmxd&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&)
 </td>
 </tr>
 </table>
