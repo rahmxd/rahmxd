@@ -13,7 +13,7 @@ Hi, my name is Rafee...<br>
 
 - **Digital Futures**:
   - **Software Engineering**
-    - June 2020 - Present.
+    - Jan 2022 - Present.
         - Fundamentals:
             - JavaScript Fundamentals Challenge  : `Pass`.
         - Sofware Design:
