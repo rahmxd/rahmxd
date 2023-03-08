@@ -43,12 +43,11 @@ I am eager to join a team of experienced developers to work on meaningful projec
             - Airport Java challenge  : `Pass`.
             - Team Engineering Project 2 (MERN stack) : `Pass`.
 </td>
-<td>
-- **University of Sussex**:
-  - **BSc Economics**
-    - October 2013 - 2018
-        <br>
+<td style="width:50%">
         
+- **University of Sussex**:
+  - **BSc Economics with Statistics (October 2013 – 2018)**
+ 
 - **Hurstpierpoint College**:
   - **A Levels (September 2010 – July, 2013)**
     - Mathematics
