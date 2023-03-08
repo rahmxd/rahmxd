@@ -2,7 +2,8 @@
  Welcome to Rahmxd's Github!
 </h1>
 
-Hi, my name's Rafee! As a highly motivated software developer with a passion for innovation, I have developed a strong foundation in programming, data structures, and algorithms. My expertise includes the MERN stack, Nodejs, Reactjs, and Java SE 8, coupled with agile methodologies, Git, and clean coding practices.
+Hi, my name is Rafee! As a highly motivated software developer with a passion for innovation, I have developed a strong foundation in programming, data structures, and algorithms. My expertise includes the MERN stack, Node.js, React.js, and Java SE 8, coupled with agile methodologies, Git, and clean coding practices. 
+
 I am eager to join a team of experienced developers to work on meaningful projects with real impact. As a quick learner, I am confident in my ability to adapt to new technologies and programming languages. With my commitment to delivering high-quality work on time and within budget, I am well-suited for any team. Let's collaborate to drive progress and achieve success!
 <br>
 <br>
