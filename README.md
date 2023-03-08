@@ -19,9 +19,9 @@ I am eager to join a team of experienced developers to work on meaningful projec
 <tr>
 <td style="width:50%">
 
-- **Digital Futures**:
+- **Digital Futures Academy**:
   - **Software Engineering**
-    - Jan 2022 - Present.
+    - Jan 2022 - Sept 2022.
         - Fundamentals:
             - JavaScript Fundamentals Challenge  : `Pass`.
         - Sofware Design:
