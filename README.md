@@ -1,5 +1,5 @@
 <h1 align="center">
- Welcome to Rahmxd's Github! <img src="images/Hand.png" alt="hand" width="25" height="25" />
+ Welcome to Rahmxd's Github!
 </h1>
 
 Hi, my name's Rafee! As a highly motivated software developer with a passion for innovation, I have developed a strong foundation in programming, data structures, and algorithms. My expertise includes the MERN stack, Nodejs, Reactjs, and Java SE 8, coupled with agile methodologies, Git, and clean coding practices.
